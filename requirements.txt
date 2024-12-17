@@ -1,1 +1,12 @@
+annotated-types
+anyio
 fastapi
+idna
+pydantic
+pydantic-core
+sniffio
+starlette
+typing-extensions
+uvicorn
+click
+h11
